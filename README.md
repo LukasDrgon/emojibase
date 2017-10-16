@@ -222,7 +222,7 @@ import data from 'emojibase-data/en/compact.json';
 #### Fetching From A CDN
 
 If you prefer to not inflate your bundle size with these large JSON datasets,
-you can fetch them from our CDN ([provided by jsdelivr.com][cdn]) using `fetchFromCDN`.
+you can fetch them from our CDN ([provided by jsdelivr.com][cdn]) using `fetchFromCDN`. [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/emojibase-data/badge?style=rounded)](https://www.jsdelivr.com/package/npm/emojibase-data)
 
 ```javascript
 import { fetchFromCDN } from 'emojibase';
